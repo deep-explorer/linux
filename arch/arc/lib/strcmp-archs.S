@@ -3,6 +3,8 @@
  * Copyright (C) 2014-15 Synopsys, Inc. (www.synopsys.com)
  */
 
+#include <stdio.h>
+
 #include <linux/linkage.h>
 
 ENTRY_CFI(strcmp)
